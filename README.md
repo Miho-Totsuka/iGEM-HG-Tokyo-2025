@@ -113,9 +113,9 @@ My responsibilities included:
 - Budget management
 - Tracking project-related expenses
 - Supporting fundraising and sponsorship activities
-- Sending out emails to find sponsors 
-  --> Some cram schools such as KA and JPREP 
-  --> Other companies too listed in our sponsor list that we previously made
+- Sending out emails to find sponsors
+  - For example, we sent some emails to Some cram schools such as KA and JPREP 
+  - In addition, I also sent other companies too listed in our sponsor list that we previously made
 - Take part in writing some of the cloud founding reward details
 
 # Researcher Visits in Italy
