@@ -56,9 +56,14 @@ Through these activities, I gained experience communicating the same scientific 
 
 I helped organize and support a hands-on synthetic biology laboratory workshop for middle and high school students.
 
-The workshop introduced participants to synthetic biology and basic laboratory equipment through lectures, experiments, and Q&A sessions.
+### My Contribution
 
-By taking part in the workshop, I learned that explaining science in person is different from simply presenting scientific information. It is important to observe how participants respond, adjust explanations when necessary, and create opportunities for them to ask questions.
+* Helped plan and organize the workshop
+* Supported the preparation of educational materials
+* Helped explain synthetic biology concepts to middle and high school students
+* Supported experiments and Q&A sessions
+
+The workshop gave me experience communicating scientific concepts directly to students and adapting explanations based on their questions and level of understanding.
 
 ## 2. International Collaboration
 
@@ -84,7 +89,7 @@ I was involved in:
 * Supporting the operation of the seminar
 * Helping communicate our project to an international audience
 
-This experience taught me that international collaboration requires more than simply contacting another team. Effective collaboration also depends on early communication, clear shared goals, and careful coordination between the people involved.
+This experience taught me that international collaboration requires early communication, clear shared goals, and careful coordination.
 
 It also gave me experience communicating about synthetic biology with students from another country and working together to create an educational event.
 
@@ -100,7 +105,7 @@ I proposed exploring the use of narirutin as one possible approach to hay fever 
 
 The team later explored the possibility of biosynthesizing narirutin using yeast as part of the project.
 
-Through this process, I learned that an initial research idea does not immediately become a finished project. Ideas develop through discussion, investigation, feedback, and collaboration with other team members and researchers.
+Through this process, I learned that an initial research idea develops through investigation, discussion, feedback, and collaboration with other team members and researchers.
 
 ## 4. Finance
 
@@ -108,16 +113,13 @@ I also contributed to finance-related activities within the team.
 
 My responsibilities included:
 
-* Supporting budget management
-* Tracking project-related expenses
+* Supporting budget management and tracking project-related expenses
 * Researching potential sponsors
 * Contacting potential sponsors, including educational organizations and companies
 * Supporting fundraising and sponsorship activities
-* Helping develop reward descriptions for our crowdfunding campaign
+* Contributing to preparing crowdfunding reward descriptions
 
-Working on finance showed me that a scientific project requires much more than research and experiments.
-
-Funding, budgeting, communication with outside organizations, and project management are also necessary for turning an idea into a project that can actually be carried out.
+Working on finance helped me understand that scientific projects also require budgeting, fundraising, communication, and coordination in order to operate successfully.
 
 # Researcher Visits in Italy
 
@@ -127,11 +129,11 @@ As part of my interest in synthetic biology and biological research, I independe
 
 Both visits were conducted in English.
 
-During the meetings, I learned about the researchers' work, asked questions about laboratory research, and sought advice about our own iGEM project.
+During the meetings, I learned about the researchers' work, discussed scientific research and experimental approaches, and sought feedback on our own iGEM project.
 
 Some of my teammates joined the discussions online so that we could ask more detailed questions related to our project.
 
-Organizing these visits myself gave me experience taking the initiative to contact researchers, preparing questions, communicating professionally in English, and discussing scientific ideas with researchers working in the field.
+Organizing these visits myself gave me experience taking the initiative to contact researchers, arranging meetings, preparing questions, communicating professionally in English, and discussing scientific ideas with researchers working in the field.
 
 ## Telethon Institute of Genetics and Medicine (TIGEM)
 
@@ -141,11 +143,11 @@ Organizing these visits myself gave me experience taking the initiative to conta
 * Activity: Laboratory visit and research interview
 * Language: English
 
-During the meeting, I asked Professor di Bernardo around ten questions about conducting laboratory experiments related to synthetic biology and about ways our team could improve its project idea.
+I discussed synthetic biology research, experimental approaches, and our project idea with Professor Diego di Bernardo.
 
 I also asked about his research, his work as a scientist, and some of the technical challenges involved in his field.
 
-Three or four of my teammates who had more experience with the laboratory side of our project joined the discussion online. This allowed us to ask more detailed technical questions and receive feedback related to our project.
+Several of my teammates who had more experience with the laboratory side of our project joined the discussion online, allowing us to ask more detailed technical questions and receive feedback related to our project.
 
 Visiting the institute in person was especially valuable because I was able to see laboratories in operation and gain a better understanding of how research is conducted in a professional laboratory environment.
 
@@ -157,13 +159,13 @@ Visiting the institute in person was especially valuable because I was able to s
 * Activity: Laboratory visit and research interview
 * Language: English
 
-During this meeting, I interviewed Professor Siciliano about her work and the research she was conducting.
+During this meeting, I interviewed Professor Siciliano about her work and research.
 
-I also introduced aspects of our project and asked for her advice on our topic and ways we could improve our ideas.
+I also introduced aspects of our project and asked for her advice on our topic and possible ways to improve our ideas.
 
 As with the TIGEM meeting, several of my teammates joined the discussion online so that we could ask more detailed questions about our project.
 
-These meetings helped me understand how researchers evaluate scientific ideas and how receiving feedback from people with different areas of expertise can help improve a project.
+These meetings helped me understand how researchers evaluate scientific ideas and how feedback from people with different areas of expertise can help improve a project.
 
 # What I Learned
 
