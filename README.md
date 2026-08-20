@@ -114,7 +114,7 @@ My responsibilities included:
 - Tracking project-related expenses
 - Supporting fundraising and sponsorship activities
 - Sending out emails to find sponsors 
-  --> Some cram schools such as KA and JPREP etc
+  --> Some cram schools such as KA and JPREP 
   --> Other companies too listed in our sponsor list that we previously made
 - Take part in writing some of the cloud founding reward details
 
