@@ -138,13 +138,11 @@ The visits were conducted in English.
 I independently contacted Professor Diego di Bernardo
 and arranged the visit and interview.
 
-In this meeting, I asked him about 10 questions asking for advice when conducting
-a lab experiment related to synthetic biology and ways to improve our team idea.
-(I did ask him about his job and what he researches too and the complicated parts
-of it)
-Three to four of my teammates who had more knowledge of what was going on with our
-lab joined me from an online meeting.
-By going here, I was able to see some of the labs in motion.
+During this meeting, I asked him around ten questions about how to conduct laboratory experiments related to synthetic biology and how we could improve our team’s project idea. I also asked about his work, his research, and some of the more complicated aspects of what he does.
+
+Three or four of my teammates who had more experience with the laboratory side of our project joined the discussion online, which allowed us to ask more detailed technical questions.
+
+Visiting in person was especially valuable because I was able to see some of the laboratories in operation and get a better sense of what research in a real laboratory environment looks like.
 
 ## Istituto Italiano di Tecnologia (IIT)
 
@@ -157,9 +155,9 @@ By going here, I was able to see some of the labs in motion.
 I independently contacted Professor Velia Siciliano
 and arranged the visit and interview.
 
-In this meeting, I interviewed she was doing for her job. Then, I asked her for 
-advice on our topic too. Same as last time, some of my teammates joined our meeting
-through an online meeting.
+During this meeting, I interviewed her about her job and the research she was working on. I then asked for her advice on our project topic and discussed ways we could improve our idea.
+
+As with the previous meeting, several of my teammates joined the discussion online so that we could ask more detailed questions about our project.
 
 # What I Learned
 
